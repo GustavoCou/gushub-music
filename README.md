@@ -12,7 +12,7 @@ The goal of this project is to practice and improve skills in:
 - Authentication flows
 - Responsive design
 
-## 📦 Installation
+##  Installation
 
 Clone the repository:
 
